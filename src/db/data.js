@@ -144,7 +144,7 @@ const data = [
   },
   {
     img: product15,
-    title: "ဒံပေါက်(Biryani",
+    title: "ဒံပေါက်(Biryani)",
     reviews: "(100 reviews)",
     prevPrice: "200 THB",
     newPrice: "190 THB",

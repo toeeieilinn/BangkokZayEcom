@@ -18,7 +18,6 @@ const Sidebar = ({ handleChange }) => {
         </div>
         <Category handleChange={handleChange} />{" "}
         <Colors handleChange={handleChange} />
-
       </section>
     </>
   );
